@@ -1,0 +1,16 @@
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\Teste de lógca Udemy.exe
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\Teste de lógca Udemy.deps.json
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\Teste de lógca Udemy.runtimeconfig.json
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\Teste de lógca Udemy.runtimeconfig.dev.json
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\Teste de lógca Udemy.dll
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\ref\Teste de lógca Udemy.dll
+C:\Users\alexa\source\repos\Teste de lógca Udemy\bin\Debug\net5.0\Teste de lógca Udemy.pdb
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.AssemblyInfo.cs
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.dll
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\ref\Teste de lógca Udemy.dll
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.pdb
+C:\Users\alexa\source\repos\Teste de lógca Udemy\obj\Debug\net5.0\Teste de lógca Udemy.genruntimeconfig.cache

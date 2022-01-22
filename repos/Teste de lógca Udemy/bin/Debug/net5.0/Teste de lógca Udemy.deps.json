@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Teste de lógca Udemy/1.0.0": {
+        "runtime": {
+          "Teste de lógca Udemy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste de lógca Udemy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

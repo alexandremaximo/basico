@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\CadCli.WinForms.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.cli_cad.resources
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\Cadastro_de_Clientes.Properties.Resources.resources
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\CadCli.WinForms.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\CadCli.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.exe
+C:\Users\alexa\source\repos\Cadastro de Clientes\obj\Debug\Cadastro de Clientes.pdb
+C:\Users\alexa\source\repos\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe.config
+C:\Users\alexa\source\repos\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.exe
+C:\Users\alexa\source\repos\Cadastro de Clientes\bin\Debug\Cadastro de Clientes.pdb
