@@ -1,0 +1,16 @@
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.csproj.AssemblyReference.cache
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.AssemblyInfoInputs.cache
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.AssemblyInfo.cs
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.csproj.CoreCompileInputs.cache
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ExePensionato.exe
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ExePensionato.deps.json
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ExePensionato.runtimeconfig.json
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ExePensionato.runtimeconfig.dev.json
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ExePensionato.dll
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ref\ExePensionato.dll
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\bin\Debug\net5.0\ExePensionato.pdb
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.dll
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ref\ExePensionato.dll
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.pdb
+C:\Aulas C#\Seção 5\Aula60\Pensionato\ExePensionato\ExePensionato\obj\Debug\net5.0\ExePensionato.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\TrianguloCalc.exe
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\TrianguloCalc.deps.json
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\TrianguloCalc.runtimeconfig.json
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\TrianguloCalc.runtimeconfig.dev.json
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\TrianguloCalc.dll
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\ref\TrianguloCalc.dll
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\bin\Debug\net5.0\TrianguloCalc.pdb
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.AssemblyInfoInputs.cache
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.AssemblyInfo.cs
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.csproj.CoreCompileInputs.cache
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.dll
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\ref\TrianguloCalc.dll
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.pdb
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.genruntimeconfig.cache
+C:\Aulas C#\TrinaguloCalcu\TrianguloCalc\TrianguloCalc\obj\Debug\net5.0\TrianguloCalc.csproj.AssemblyReference.cache

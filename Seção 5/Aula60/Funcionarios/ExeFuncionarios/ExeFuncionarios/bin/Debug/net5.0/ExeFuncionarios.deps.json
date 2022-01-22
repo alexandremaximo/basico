@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExeFuncionarios/1.0.0": {
+        "runtime": {
+          "ExeFuncionarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExeFuncionarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

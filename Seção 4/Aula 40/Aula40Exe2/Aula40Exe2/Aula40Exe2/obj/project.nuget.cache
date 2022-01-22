@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eBlag8VMITBHR+pIoi2QYppAWhbXELlNHdW42aRRt5g2zwTq/TGQmLIefEVF3GWG+tELHUZB+8y13bs3ufL32Q==",
+  "success": true,
+  "projectFilePath": "C:\\Aulas C#\\Seção 4\\Aula 40\\Aula40Exe2\\Aula40Exe2\\Aula40Exe2\\Aula40Exe2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexa\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512"
+  ],
+  "logs": []
+}

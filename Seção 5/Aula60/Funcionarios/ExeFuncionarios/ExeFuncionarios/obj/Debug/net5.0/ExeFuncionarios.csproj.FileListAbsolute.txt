@@ -1,0 +1,16 @@
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ExeFuncionarios.exe
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ExeFuncionarios.deps.json
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ExeFuncionarios.runtimeconfig.json
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ExeFuncionarios.runtimeconfig.dev.json
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ExeFuncionarios.dll
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ref\ExeFuncionarios.dll
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\bin\Debug\net5.0\ExeFuncionarios.pdb
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.csproj.AssemblyReference.cache
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.AssemblyInfoInputs.cache
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.AssemblyInfo.cs
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.csproj.CoreCompileInputs.cache
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.dll
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ref\ExeFuncionarios.dll
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.pdb
+C:\Aulas C#\Seção 5\Aula60\Funcionarios\ExeFuncionarios\ExeFuncionarios\obj\Debug\net5.0\ExeFuncionarios.genruntimeconfig.cache
